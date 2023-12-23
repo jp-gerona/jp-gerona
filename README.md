@@ -10,11 +10,11 @@ I'm a second year college student at [Mapúa Malayan Colleges Laguna], currently
 
 - 🚴‍♂️ My hobbies include: cycling and graphic design.
 
-- 🗼 I love the City Pop Aesthetic. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13. 
+- 🏝 I love the City Pop Aesthetic. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13. 
 
-- 🖼 I do make graphic designs similar to their artstyle when I have free time.
+- 🌇 I make graphic designs that capture this aesthetic when I have free time.
 
-- 🎧 I currently like listening to the Math Rock genre.
+- 🎵 I currently like listening to the Math Rock genre.
 
 ---
 
@@ -45,21 +45,34 @@ Note: No Languages <i>were harmed</i> during my debugging hours.</h6>
 
 ##  📋 Git Commands Cheat Sheet
 
-`git init` - This command initializes a new and empty Git repository 
-> cd ~/Repositories/example-project
-> 
-> git init
+1. `git init` - This command initializes a new and empty Git repository.
+    #### Example:
+    > &gt;&gt; cd ~/Repositories/example-project    
+    > &gt;&gt;    
+    > &gt;&gt; git init
 
-`git clone` - 
-> cd ~/Repositories
-> 
-> git clone https://github.com/jp-gerona/jp-gerona.git
+<br />
 
-`git add` - 
-> git add .
+2. `git clone` - 
+    #### Example:
+    > &gt;&gt; cd ~/Repositories    
+    > &gt;&gt;    
+    > &gt;&gt; git clone `https://github.com/jp-gerona/jp-gerona.git`
 
-`git commit` - 
-> git commit -m "Added a new feature that checks viewer count"
+<br />
 
-`git push` - 
-> git push -u origin main
+3. `git add` - 
+    #### Example:
+    > &gt;&gt; git add .
+
+<br />
+
+4. `git commit` - 
+    #### Example:
+    > &gt;&gt; git commit -m "Added a new feature that checks viewer count"
+
+<br />
+
+5. `git push` - 
+    #### Example:
+    > &gt;&gt; git push -u origin main
