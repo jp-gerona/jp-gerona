@@ -45,15 +45,17 @@ Note: No Languages <i>were harmed</i> during my debugging hours.</h6>
 
 ##  📋 Git Commands Cheat Sheet
 
-1. `git init` - This command initializes a new and empty Git repository.
+This cheat sheet provides a quick reference to Git commands I use. The examples I provided may be different as I use a MacOS machine and run these commands using a Bash terminal.
+
+1. `git init` - This is the very first step to start tracking changes in your project. It initializes a new and empty Git repository in your local repository. It has **no parameters**, but it is needed to specify which directory to initialize a Git repository first before running **git init**.
     #### Example:
-    > &gt;&gt; cd ~/Repositories/example-project    
+    > &gt;&gt; cd ~/Repositories/my-awesome-project    
     > &gt;&gt;    
     > &gt;&gt; git init
 
 <br />
 
-2. `git clone` - 
+2. `git clone [url]` - If you want to work on an existing remote repository that has Git initialized, use **git clone**. This command **downloads a remote repository to your local machine**. Its parameter needs you to provide the **URL** of the repository you want to clone, and like git init, it is also important to specify which directory you want Git to download the project.
     #### Example:
     > &gt;&gt; cd ~/Repositories    
     > &gt;&gt;    
@@ -61,18 +63,18 @@ Note: No Languages <i>were harmed</i> during my debugging hours.</h6>
 
 <br />
 
-3. `git add` - 
+3. `git add [file]` - After making changes to your files, you need to tell Git which changes you want to track or stage. Use **git add [file]** to add specific files or simply **git add .** to add all modified files in the local repository to the staging area.
     #### Example:
     > &gt;&gt; git add .
 
 <br />
 
-4. `git commit` - 
+4. `git commit -m "[description]"` - Once you've added the desired changes to the staging area, use **git commit** to take a **snapshot** of those changes and store them in the **Git history of your local repository**. It is good practice to always provide a clear and concise message describing the changes you've made using the **-m** flag.
     #### Example:
-    > &gt;&gt; git commit -m "Added a new feature that checks viewer count"
+    > &gt;&gt; git commit -m "Added a new super awesome feature"
 
 <br />
 
-5. `git push` - 
+5. `git push [alias] [branch]` - After committing your changes locally, you can use **git push** to push commits to a remote repository. Additionally, you have the option to specify the **remote alias** (often "origin") and the **branch you want to push your changes to** (e.g., "main" or a specific "branch") by establishing an upstream relationship using the **-u** flag. Though not mandatory, this is useful as it allows you to use **git push only** without specifying the remote name and branch in the future.
     #### Example:
     > &gt;&gt; git push -u origin main
