@@ -14,11 +14,11 @@ Hi 👋, I'm a second year college student at [Mapúa Malayan Colleges Laguna], 
 
 - 🚴‍♂️ My hobbies include: cycling, editing and graphic design.
 
-- 🏝 I love the City Pop Aesthetic. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13. 
+- ⚡ I am currently interested in learning more about Web Development and Design.
 
-- 🌇 I make graphic designs that capture this aesthetic when I have free time.
+- 🏝 I love the **City Pop Aesthetic**. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13. 
 
-- 🎵 I currently like listening to the Math Rock genre.
+- 🎵 I currently like listening to the **Math Rock** genre.
 
 ### 💻 Languages
 
@@ -35,9 +35,9 @@ Note: No languages <i>were harmed</i> during debugging.</h6>
 ### 🎨 Design
 
 ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Id](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Pr](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Ae](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📩 Contact Me
@@ -83,4 +83,4 @@ This cheat sheet provides a quick reference to Git commands I use. The examples 
 
 ---
 
-<h3 align="center">🌊 Making Waves</h3>
+<h3 align="center">🌊 Making Waves.</h3>
