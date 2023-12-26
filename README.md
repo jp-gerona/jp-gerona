@@ -81,6 +81,19 @@ This cheat sheet provides a quick reference to Git commands I use. The examples 
     #### Example:
     > \$ git push -u origin main
 
+<br>
+
+6. `git log` - The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes. While git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
+    #### Example:
+    > \$ git log --author="John Smith" -p hello.py
+
+<br>
+
+7. `git config` - The git config command is a convenience function that is used to set Git configuration values on a global or local project level. These configuration levels correspond to .gitconfig text files. Executing git config will modify a configuration text file.
+    #### Example:
+    > \$ git config user.email <br>
+    > \$ git config --global user.email "your_email@example.com"
+    
 ---
 
 <h3 align="center">🌊 Making Waves.</h3>
