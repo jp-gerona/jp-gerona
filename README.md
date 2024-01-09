@@ -97,3 +97,4 @@ This cheat sheet provides a quick reference to Git commands I use. The examples 
 ---
 
 <h3 align="center">🌊 Making Waves.</h3>
+<h6 align="center">(GIF made by me using Powerpoint and Premiere Pro)
