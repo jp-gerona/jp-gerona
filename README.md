@@ -6,6 +6,7 @@
 
 Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building beautiful user interfaces that feel intuitive to use. Hopefully, I can land a job as a front-end developer, and with enough experience, possibly be a full-stack developer in the future.
 
+<!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
 
 ---
@@ -14,17 +15,26 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 
 - 🇵🇭 I am currently based in the **Philippines**.
 
-- 🏝 I love the **City Pop Aesthetic**. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13.
+- 🏝 I love the **City Pop Aesthetic**. I absolutely love the works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
 
-- 🌱 **Nurture** by Porter Robinson is definitely my favorite album.
+- 🌱 [Nurture] by Porter Robinson is definitely **my favorite album**.
 
 - 🚴‍♂️ When I'm not developing, you can find me **riding my bike**.
 
 - 🌐 Eager to learn more? Check out my [Website Portfolio]!
 
+<!-- More About Me links -->
 [Website Portfolio]: https://jp-gerona.github.io/
+[Hiroshi Nagai]: https://www.instagram.com/hiroshipenguinjoe/
+[Eizen Suzuki]: https://www.instagram.com/eizin_office/
+[Ardhira Putra]: https://www.instagram.com/ardhiraputra/
+[Tree_13]: https://www.instagram.com/__tree_13/
+[Nurture]: https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM
 
 ---
+
+<!-- Badges from https://github.com/Ileriayo/markdown-badges, thank you! :) -->
+<!-- Other badges are made by me using https://shields.io/ -->
 
 ### 🔰 Learning
 
