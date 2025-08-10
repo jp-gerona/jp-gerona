@@ -4,7 +4,7 @@
 
 **`Future Full-stack Developer`**
 
-Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building beautiful user interfaces that feel intuitive to use.
+Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building beautiful user interfaces that feel intuitive to use. Hopefully, I can land a job as a front-end developer, and with enough experience, possibly be a full-stack developer in the future.
 
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
 
@@ -12,11 +12,13 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 
 ### 🌸 More About Me
 
-- 🚴‍♂️ When I'm not developing, you can find me **riding my bike**.
+- 🇵🇭 I am currently based in the **Philippines**.
 
 - 🏝 I love the **City Pop Aesthetic**. I follow the works made by Hiroshi Nagai, Eizen Suzuki, Ardhira Putra, and Tree_13.
 
 - 🌱 **Nurture** by Porter Robinson is definitely my favorite album.
+
+- 🚴‍♂️ When I'm not developing, you can find me **riding my bike**.
 
 - 🌐 Eager to learn more? Check out my [Website Portfolio]!
 
