@@ -68,4 +68,4 @@ Note: No languages <i>were harmed</i> during debugging.</h6>
 ---
 
 <h3 align="center">🌊 Making Waves.</h3>
-<h6 align="center">(Illustration made by Hokusai. GIF made by me.)</h6>
+<h6 align="center">(Illustration made by Hokusai; GIF made by me)</h6>
