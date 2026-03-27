@@ -1,10 +1,10 @@
-<p align="center"><img alt="Banner" src="./banner/waves-banner.gif"></p>
+<p align="center"><img alt="Banner" src="./.github/assets/waves.gif"></p>
 
 # 🌊 Julian Peter B. Gerona
 
 **`Future Full-stack Developer`**
 
-Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building beautiful user interfaces that feel intuitive to use. Hopefully, I can land a job as a front-end developer, and with enough experience, possibly be a full-stack developer in the future.
+Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building user interfaces that simplify and humanize digital experiences. I am eager to start as a front-end developer and put in the work to eventually grow into a full-stack role.
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
@@ -15,11 +15,9 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 
 - 🇵🇭 I am currently based in the **Philippines**.
 
-- 🏝 I love the **City Pop Aesthetic**. I absolutely love the works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
+- 🏝 I love the **City Pop Aesthetic** design. Works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
 
-- 🌱 [Nurture] by Porter Robinson is definitely **my favorite album**.
-
-- 🚴‍♂️ When I'm not developing, you can find me **riding my bike**.
+- 🌱 I love the **Botanica genre** of music. [Nurture] by Porter Robinson is my favorite album.
 
 - 🌐 Eager to learn more? Check out my [Website Portfolio]!
 
@@ -34,7 +32,7 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 ---
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges, thank you! :) -->
-<!-- Other badges are made by me using https://shields.io/ -->
+<!-- Other badges made using https://shields.io/ and https://simpleicons.org/ -->
 
 ### 🔰 Learning
 
@@ -43,8 +41,9 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Wails](https://img.shields.io/badge/wails-DF0000.svg?style=for-the-badge&logo=wails&logoColor=%23FFFFFF)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Three JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Tanstack Start](https://img.shields.io/badge/tanstack_start-000000?style=for-the-badge&logo=tanstack&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🚀 Technologies
 
@@ -66,8 +65,8 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<h6>These are languages that I have used (and possibly abused).<br />
-Note: No languages <i>were harmed</i> during debugging.</h6>
+<h6>These are technologies that I have used (and possibly abused 😅).<br />
+Note: No technologies <i>were harmed</i> during debugging.</h6>
 
 ### ⚡️ Tools
 
@@ -79,6 +78,7 @@ Note: No languages <i>were harmed</i> during debugging.</h6>
 ### 📫 Contact Me
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jp-gerona@protonmail.com)](mailto:jp-gerona@protonmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gerona.jp.b@gmail.com)](mailto:gerona.jp.b@gmail.com)
 
 ---
 
