@@ -36,44 +36,79 @@ Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], cur
 
 ### 🔰 Learning
 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Wails](https://img.shields.io/badge/wails-DF0000.svg?style=for-the-badge&logo=wails&logoColor=%23FFFFFF)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Tanstack Start](https://img.shields.io/badge/tanstack_start-000000?style=for-the-badge&logo=tanstack&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)][Svelte]
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)][Go]
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][Rust]
+[![Wails](https://img.shields.io/badge/wails-DF0000.svg?style=for-the-badge&logo=wails&logoColor=%23FFFFFF)][Wails]
+[![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)][Tauri]
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)][Laravel]
+[![Tanstack Start](https://img.shields.io/badge/tanstack_start-000000?style=for-the-badge&logo=tanstack&logoColor=white)][TanStack Start]
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)][Flutter]
+
+<!-- Learning links -->
+[Svelte]: https://svelte.dev/
+[Go]: https://go.dev/
+[Rust]: https://www.rust-lang.org/
+[Wails]: https://wails.io/
+[Tauri]: https://tauri.app/
+[Laravel]: https://laravel.com/
+[TanStack Start]: https://tanstack.com/start/latest
+[Flutter]: https://flutter.dev/
 
 ### 🚀 Technologies
 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Next JS](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0F110F?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Express JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)][Astro]
+[![Next JS](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)][Next.js]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)][React]
+[![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)][UnoCSS]
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)][Tailwind CSS]
+[![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)][shadcn/ui]
+[![GSAP](https://img.shields.io/badge/GSAP-0F110F?style=for-the-badge&logo=greensock&logoColor=88CE02)][GSAP]
+[![Express JS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)][Express]
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)][Node.js]
+[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)][XAMPP]
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)][PostgreSQL]
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)][MySQL]
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)][Kotlin]
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)][TypeScript]
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)][JavaScript]
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)][PHP]
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)][Python]
 
 <h6>These are technologies that I have used (and possibly abused 😅).<br />
 Note: No technologies <i>were harmed</i> during debugging.</h6>
 
+<!-- Technologies links -->
+[Astro]: https://astro.build/
+[Next.js]: https://nextjs.org/
+[React]: https://react.dev/
+[UnoCSS]: https://unocss.dev/
+[Tailwind CSS]: https://tailwindcss.com/
+[shadcn/ui]: https://ui.shadcn.com/
+[GSAP]: https://gsap.com/
+[Express]: https://expressjs.com/
+[Node.js]: https://nodejs.org/
+[XAMPP]: https://www.apachefriends.org/
+[PostgreSQL]: https://www.postgresql.org/
+[MySQL]: https://www.mysql.com/
+[Kotlin]: https://kotlinlang.org/
+[TypeScript]: https://www.typescriptlang.org/
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[PHP]: https://www.php.net/
+[Python]: https://www.python.org/
+
 ### ⚡️ Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Wezterm](https://img.shields.io/badge/wezterm-%234E49EE.svg?style=for-the-badge&logo=wezterm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][Android Studio]
+[![Wezterm](https://img.shields.io/badge/wezterm-%234E49EE.svg?style=for-the-badge&logo=wezterm&logoColor=white)][WezTerm]
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)][Figma]
+
+<!-- Tools links -->
+[Visual Studio Code]: https://code.visualstudio.com/
+[Android Studio]: https://developer.android.com/studio
+[WezTerm]: https://wezfurlong.org/wezterm/
+[Figma]: https://www.figma.com/
 
 ### 📫 Contact Me
 
