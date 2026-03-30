@@ -1,10 +1,10 @@
-<p align="center"><img alt="Banner" src="./.github/assets/waves.gif"></p>
+<p align="center"><img alt="Waves" src="./assets/waves.gif"></p>
 
 # 🌊 Julian Peter B. Gerona
 
 **`Future Full-stack Developer`**
 
-Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology. I have a strong interest in building user interfaces that simplify and humanize digital experiences. I am eager to start as a front-end developer and put in the work to eventually grow into a full-stack role.
+Hi 👋, I'm a 4th year college student at [Mapúa Malayan Colleges Laguna], currently pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity. I have a strong interest in building user interfaces that simplify and humanize digital experiences. I am eager to start as a front-end developer and put in the work to eventually grow into a full-stack role.
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
