@@ -40,8 +40,8 @@
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)][Go]
 [![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)][Tauri]
+[![TanStack Start](https://img.shields.io/badge/-TanStack_Start-0092b8?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)][Flutter]
-[![TanStack Start](https://img.shields.io/badge/-TanStack_Start-0F172A?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
 [![Wails](https://img.shields.io/badge/-Wails-DF0000?style=flat-square&logo=wails&logoColor=white)][Wails]
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)][Laravel]
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
@@ -62,9 +62,10 @@
 
 ### 🚀 Technologies
 
+[![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)][TypeScript]
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333333)][React]
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)][Tailwind CSS]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)][TypeScript]
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)][Python]
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)][MySQL]
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)][PostgreSQL]
@@ -74,6 +75,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)][PHP]
 [![Astro](https://img.shields.io/badge/-Astro-2C2052?style=flat-square&logo=astro&logoColor=white)][Astro]
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)][Sass]
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)][npm]
 [![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)][pnpm]
 [![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)][XAMPP]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333)][JavaScript]
@@ -89,6 +91,7 @@
 Note: No technologies <i>were harmed</i> during debugging.</h6>
 
 <!-- Technologies links -->
+[MacPorts]: https://www.macports.org/
 [React]: https://react.dev/
 [Tailwind CSS]: https://tailwindcss.com/
 [TypeScript]: https://www.typescriptlang.org/
@@ -102,6 +105,7 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 [Astro]: https://astro.build/
 [Sass]: https://sass-lang.com/
 [pnpm]: https://pnpm.io/
+[npm]: https://www.npmjs.com/
 [XAMPP]: https://www.apachefriends.org/
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [GSAP]: https://gsap.com/
@@ -114,18 +118,23 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 
 ### ⚡️ Tools
 
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
-![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
+[![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)][Firefox]
+[![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white)][Brave]
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)][Figma]
+[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 <!-- Tools links -->
 [Visual Studio Code]: https://code.visualstudio.com/
-[Android Studio]: https://developer.android.com/studio
 [WezTerm]: https://wezfurlong.org/wezterm/
+[Git]: https://git-scm.com/
+[Brave]:https://brave.com/
+[Firefox]: https://www.firefox.com/en-US/
 [Figma]: https://www.figma.com/
+[Android Studio]: https://developer.android.com/studio
 
 ### 📫 Contact Me
 
