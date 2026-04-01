@@ -19,3 +19,10 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year

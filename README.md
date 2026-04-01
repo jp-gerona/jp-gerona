@@ -27,10 +27,14 @@
 [Tree_13]: https://www.instagram.com/__tree_13/
 [Nurture]: https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM
 
----
-
 <!-- Badges from https://github.com/Ileriayo/markdown-badges, thank you! :) -->
 <!-- Other badges made using https://shields.io/ and https://simpleicons.org/ -->
+---
+
+<p align="center">
+  <img src="./github-metrics-languages.svg" alt="Languages" />
+  <img src="./github-metrics-isocalendar.svg" alt="Isometric Calendar" />
+</p>
 
 ### 🔰 Learning
 
@@ -107,8 +111,6 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 [shadcn/ui]: https://ui.shadcn.com/
 [Express]: https://expressjs.com/
 [UnoCSS]: https://unocss.dev/
-
-![Language Metrics](./github-metrics-languages.svg)
 
 ### ⚡️ Tools
 
