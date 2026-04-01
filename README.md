@@ -1,4 +1,4 @@
-<p align="center"><img alt="Waves" src="./assets/waves.gif" width="450"></p>
+<p align="center"><img alt="Waves" src="./assets/waves.gif" width="500"></p>
 
 # 🌊 Julian Peter B. Gerona
 
@@ -107,6 +107,8 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 [shadcn/ui]: https://ui.shadcn.com/
 [Express]: https://expressjs.com/
 [UnoCSS]: https://unocss.dev/
+
+![Language Metrics](./github-metrics-languages.svg)
 
 ### ⚡️ Tools
 
