@@ -43,6 +43,7 @@
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
 [![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square&logo=filament&logoColor=333333)][Filament]
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)][Rust]
+[![Anime.js](https://img.shields.io/badge/-Anime.js-000000?style=flat-square&logo=animedotjs&logoColor=white)][Rust]
 
 <!-- Learning links -->
 [Go]: https://go.dev/
@@ -68,7 +69,8 @@
 [![Material Design](https://img.shields.io/badge/-Material_Design-6750A4?style=flat-square&logo=materialdesign&logoColor=white)][Material Design]
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)][PHP]
 [![Astro](https://img.shields.io/badge/-Astro-2C2052?style=flat-square&logo=astro&logoColor=white)][Astro]
-[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)][SASS]
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)][Sass]
+[![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)][pnpm]
 [![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)][XAMPP]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333)][JavaScript]
 [![GSAP](https://img.shields.io/badge/-GSAP-0AE448?style=flat-square&logo=gsap&logoColor=white)][GSAP]
@@ -94,7 +96,8 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 [Material Design]: https://m3.material.io/
 [PHP]: https://www.php.net/
 [Astro]: https://astro.build/
-[SASS]: https://sass-lang.com/
+[Sass]: https://sass-lang.com/
+[pnpm]: https://pnpm.io/
 [XAMPP]: https://www.apachefriends.org/
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [GSAP]: https://gsap.com/
@@ -108,17 +111,15 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 ### ⚡️ Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
+[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)][Figma]
-[![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)][pnpm]
-[![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
 
 <!-- Tools links -->
 [Visual Studio Code]: https://code.visualstudio.com/
+[Android Studio]: https://developer.android.com/studio
 [WezTerm]: https://wezfurlong.org/wezterm/
 [Figma]: https://www.figma.com/
-[pnpm]: https://pnpm.io/
-[Android Studio]: https://developer.android.com/studio
 
 ### 📫 Contact Me
 
