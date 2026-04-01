@@ -114,6 +114,8 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 
 ### ⚡️ Tools
 
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
