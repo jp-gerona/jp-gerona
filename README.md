@@ -1,4 +1,4 @@
-<p align="center"><img alt="Waves" src="./assets/waves.gif" width="500"></p>
+<p align="center"><img alt="Waves" src="./assets/waves.gif"></p>
 
 # 🌊 Julian Peter B. Gerona
 
