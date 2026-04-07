@@ -34,8 +34,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="./github-metrics-languages.svg" width="400" align="top" alt="Languages" />
-  <img src="./github-metrics-isocalendar.svg" width="400" align="top" alt="Isometric Calendar" />
+  <img src="./.github/assets/metrics-languages.svg" width="400" align="top" alt="Languages" />
+  <img src="./.github/assets/metrics-isocalendar.svg" width="400" align="top" alt="Isometric Calendar" />
 </p>
 
 ### 🔰 Learning
