@@ -1,6 +1,6 @@
-<p align="center"><img alt="Waves" src="./assets/waves.gif"></p>
+<p align="center"><img alt="Waves" src="./.github/assets/flowers-banner.png"></p>
 
-# 🌊 Julian Peter B. Gerona
+# 🌥️ Julian Peter B. Gerona
 
 **`Future Full-stack Developer`**
 
@@ -142,8 +142,3 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jp-gerona@protonmail.com)](mailto:jp-gerona@protonmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gerona.jp.b@gmail.com)](mailto:gerona.jp.b@gmail.com)
-
----
-
-<h3 align="center">🌊 Making Waves.</h3>
-<h6 align="center">The Great Wave off Kanagawa by Hokusai <br /> Recreated and animated through MS Powerpoint</h6>
