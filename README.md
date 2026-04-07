@@ -13,7 +13,7 @@
 
 ### ⭐️ More About Me
 
-- 🏝 I love the **City Pop Aesthetic** design. Works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
+- 🏝 I love the **City Pop aesthetic** design. Works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
 
 - 🌱 I love the **Botanica genre** of music. [Nurture] by Porter Robinson is my favorite album.
 
@@ -29,6 +29,7 @@
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges, thank you! :) -->
 <!-- Other badges made using https://shields.io/ and https://simpleicons.org/ -->
+
 ---
 
 ### 📊 Stats
@@ -37,6 +38,8 @@
   <img src="./.github/assets/metrics-languages.svg" width="400" align="top" alt="Languages" />
   <img src="./.github/assets/metrics-isocalendar.svg" width="400" align="top" alt="Isometric Calendar" />
 </p>
+
+---
 
 ### 🔰 Learning
 
@@ -90,7 +93,7 @@
 [![UnoCSS](https://img.shields.io/badge/-UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)][UnoCSS]
 
 <h6>These are technologies that I have used (and possibly abused 😅).<br />
-Note: No technologies <i>were harmed</i> during debugging.</h6>
+Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Technologies links -->
 [MacPorts]: https://www.macports.org/
@@ -137,6 +140,8 @@ Note: No technologies <i>were harmed</i> during debugging.</h6>
 [Firefox]: https://www.firefox.com/en-US/
 [Figma]: https://www.figma.com/
 [Android Studio]: https://developer.android.com/studio
+
+---
 
 ### 📫 Contact Me
 
