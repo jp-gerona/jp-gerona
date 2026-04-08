@@ -1,4 +1,4 @@
-<p align="center"><img src="./.github/assets/flowers-banner.png" alt="Banner" /></p>
+<p align="center"><img src="./.github/assets/banners/flowers-banner.png" alt="Banner" /></p>
 
 # 🌥️ Julian Peter B. Gerona
 
