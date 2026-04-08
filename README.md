@@ -1,10 +1,10 @@
-<p align="center"><img alt="Waves" src="./.github/assets/flowers-banner.png"></p>
+<p align="center"><img src="./.github/assets/flowers-banner.png" alt="Banner" /></p>
 
 # 🌥️ Julian Peter B. Gerona
 
 **`Future Full-stack Developer`**
 
-👋 Hi! I'm Julian, an up-and-coming software developer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity. I have a strong interest in building user interfaces that simplify and humanize digital experiences.
+👋 Hi! I'm Julian, an up-and-coming software developer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity. I have a strong interest in building user interfaces that simplify and humanize digital experiences.
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
@@ -35,8 +35,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="./.github/assets/metrics-languages.svg" width="400" align="top" alt="Languages" />
-  <img src="./.github/assets/metrics-isocalendar.svg" width="400" align="top" alt="Isometric Calendar" />
+  <img src="./.github/assets/metrics-languages.svg" alt="Languages" width="400" align="top" />
+  <img src="./.github/assets/metrics-isocalendar.svg" alt="Commit Calendar" width="400" align="top" />
 </p>
 
 ---
