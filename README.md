@@ -6,7 +6,7 @@
 
 **`Future Full-stack Developer`**
 
-👋 Hi! I'm Julian, an up-and-coming software developer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity. I have a strong interest in building user interfaces that simplify and humanize digital experiences.
+👋 Hi! I'm Julian, an aspiring software developer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity. I have a strong interest in building user interfaces that simplify and humanize digital experiences.
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
@@ -19,7 +19,7 @@
 
 - 🌱 I love the **Botanica genre** of music. [Nurture] by Porter Robinson is my favorite album.
 
-- 🌐 Eager to learn more? Check out my [Website Portfolio]!
+- 🌐 Eager to learn more? Check out my [Website Portfolio]! (*Work in Progress*)
 
 <!-- More About Me links -->
 [Website Portfolio]: https://jp-gerona.github.io/
@@ -52,7 +52,7 @@
 [![Wails](https://img.shields.io/badge/-Wails-DF0000?style=flat-square&logo=wails&logoColor=white)][Wails]
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)][Laravel]
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
-[![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square&logo=filament&logoColor=333333)][Filament]
+[![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FDAE4B?style=flat-square&logo=filament&logoColor=333333)][FilamentPHP]
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)][Rust]
 [![Anime.js](https://img.shields.io/badge/-Anime.js-000000?style=flat-square&logo=animedotjs&logoColor=white)][Rust]
 
@@ -64,12 +64,11 @@
 [Wails]: https://wails.io/
 [Laravel]: https://laravel.com/
 [Svelte]: https://svelte.dev/
-[Filament]: https://filamentphp.com/
+[FilamentPHP]: https://filamentphp.com/
 [Rust]: https://www.rust-lang.org/
 
 ### 🚀 Technologies
 
-[![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)][TypeScript]
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333333)][React]
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)][Tailwind CSS]
@@ -98,7 +97,6 @@
 Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Technologies links -->
-[MacPorts]: https://www.macports.org/
 [React]: https://react.dev/
 [Tailwind CSS]: https://tailwindcss.com/
 [TypeScript]: https://www.typescriptlang.org/
@@ -126,6 +124,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 ### ⚡️ Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
+[![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)][Firefox]
@@ -136,6 +135,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Tools links -->
 [Visual Studio Code]: https://code.visualstudio.com/
+[MacPorts]: https://www.macports.org/
 [WezTerm]: https://wezfurlong.org/wezterm/
 [Git]: https://git-scm.com/
 [Brave]:https://brave.com/
