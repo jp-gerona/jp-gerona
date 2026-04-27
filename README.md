@@ -52,6 +52,7 @@
 [![Wails](https://img.shields.io/badge/-Wails-DF0000?style=flat-square&logo=wails&logoColor=white)][Wails]
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)][Laravel]
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
+[![CI](https://img.shields.io/badge/-Code_Igniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)][CI]
 [![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FDAE4B?style=flat-square&logo=filament&logoColor=333333)][FilamentPHP]
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)][Rust]
 [![Anime.js](https://img.shields.io/badge/-Anime.js-000000?style=flat-square&logo=animedotjs&logoColor=white)][Rust]
@@ -64,6 +65,7 @@
 [Wails]: https://wails.io/
 [Laravel]: https://laravel.com/
 [Svelte]: https://svelte.dev/
+[CI]: https://www.codeigniter.com/
 [FilamentPHP]: https://filamentphp.com/
 [Rust]: https://www.rust-lang.org/
 
