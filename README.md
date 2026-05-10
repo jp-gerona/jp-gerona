@@ -48,7 +48,7 @@
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)][Go]
 [![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)][Tauri]
 [![TanStack Start](https://img.shields.io/badge/-TanStack_Start-0092b8?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)][Flutter]
+[![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)][Godot]
 [![Wails](https://img.shields.io/badge/-Wails-DF0000?style=flat-square&logo=wails&logoColor=white)][Wails]
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)][Laravel]
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
@@ -60,7 +60,7 @@
 <!-- Learning links -->
 [Go]: https://go.dev/
 [Tauri]: https://tauri.app/
-[Flutter]: https://flutter.dev/
+[Godot]: https://godotengine.org/
 [TanStack Start]: https://tanstack.com/start/latest
 [Wails]: https://wails.io/
 [Laravel]: https://laravel.com/
