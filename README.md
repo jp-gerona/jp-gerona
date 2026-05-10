@@ -132,11 +132,13 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)][Firefox]
 [![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white)][Brave]
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)][Figma]
+[![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)][Neovim]
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)][Android Studio]
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 <!-- Tools links -->
 [Visual Studio Code]: https://code.visualstudio.com/
+[Neovim]: https://neovim.io/
 [MacPorts]: https://www.macports.org/
 [WezTerm]: https://wezfurlong.org/wezterm/
 [Git]: https://git-scm.com/
