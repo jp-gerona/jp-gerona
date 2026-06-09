@@ -2,9 +2,9 @@
   <img src="https://readme-banner.jp-gerona.workers.dev/" alt="Banner" />
 </p>
 
-# 🪙 Julian Peter B. Gerona
+# 🐝 Julian Peter B. Gerona
 
-**`Software Engineer`**
+**`Future Software Engineer`**
 
 👋 Hi! I'm Julian, an aspiring software engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity.
 
@@ -126,7 +126,6 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 ### ⚡️ Tools
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)][Visual Studio Code]
 [![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
