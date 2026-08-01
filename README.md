@@ -6,7 +6,7 @@
 
 **`Future Software Engineer`**
 
-👋 Hi! I'm Julian, an aspiring software engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm currently a 4th year college student at [Mapúa Malayan Colleges Laguna], pursuing an undergraduate degree in Information Technology and specializing in Cybersecurity.
+👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**.
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
@@ -19,7 +19,7 @@
 
 - 🌱 I love the **Botanica genre** of music. [Nurture] by Porter Robinson is my favorite album.
 
-- 🌐 Eager to learn more? Check out my [Website Portfolio]! (*Work in Progress*)
+- 🌐 Eager to learn more? Check out my [Website Portfolio]!
 
 <!-- More About Me links -->
 [Website Portfolio]: https://jp-gerona.github.io/
@@ -127,13 +127,13 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 ### ⚡️ Tools
 
 [![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
+[![ZedCode](https://img.shields.io/badge/-ZedCode-084CCF?style=flat-square&logo=zedindustries&logoColor=white)][ZedCode]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)][Firefox]
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)][Figma]
-[![CC](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)][CC]
-[![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)][Neovim]
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+[![ClaudeCode](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)][ClaudeCode]
+[![Pi](https://img.shields.io/badge/-Pi-000000?style=flat-square&logo=pi&logoColor=white)][Pi]
 
 <!-- Tools links -->
 [Visual Studio Code]: https://code.visualstudio.com/
@@ -141,9 +141,10 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [WezTerm]: https://wezfurlong.org/wezterm/
 [Git]: https://git-scm.com/
 [Firefox]: https://www.firefox.com/en-US/
-[CC]: https://claude.com/product/claude-code
 [Figma]: https://www.figma.com/
-[Neovim]: https://neovim.io/
+[ClaudeCode]: https://claude.com/product/claude-code
+[ZedCode]: https://zed.dev/
+[Pi]: https://pi.dev/
 
 ---
 
