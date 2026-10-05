@@ -2,7 +2,7 @@
   <img src="https://readme-banner.jp-gerona.workers.dev/" alt="Banner" />
 </p>
 
-# 🐝 Julian Peter B. Gerona
+# 💫 Julian Peter B. Gerona
 
 **`Future Software Engineer`**
 
@@ -137,7 +137,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 ---
 
 <p align="center">
-  Thanks for visiting!<br /><br />
+  Thanks for visiting my profile! 🥰<br /><br />
 
   <img src="https://komarev.com/ghpvc/?username=jp-gerona&label=Profile+Views&color=007ec6&style=flat-square" alt="Profile views" />
 </p>
