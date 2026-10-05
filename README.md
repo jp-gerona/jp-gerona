@@ -6,28 +6,11 @@
 
 **`Future Software Engineer`**
 
-👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**.
+👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**. You can check out my [Website Portfolio] if you're interested learning more about me!
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
-
----
-
-### ⭐️ More About Me
-
-- 🏝 I love the **City Pop aesthetic** design. Works made by [Hiroshi Nagai], [Eizen Suzuki], [Ardhira Putra], and [Tree_13].
-
-- 🌱 I love the **Botanica genre** of music. [Nurture] by Porter Robinson is my favorite album.
-
-- 🌐 Eager to learn more? Check out my [Website Portfolio]!
-
-<!-- More About Me links -->
 [Website Portfolio]: https://jp-gerona.github.io/
-[Hiroshi Nagai]: https://www.instagram.com/hiroshipenguinjoe/
-[Eizen Suzuki]: https://www.instagram.com/eizin_office/
-[Ardhira Putra]: https://www.instagram.com/ardhiraputra/
-[Tree_13]: https://www.instagram.com/__tree_13/
-[Nurture]: https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges, thank you! :) -->
 <!-- Other badges made using https://shields.io/ and https://simpleicons.org/ -->
@@ -152,3 +135,11 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:jp-gerona@protonmail.com)](mailto:jp-gerona@protonmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gerona.jp.b@gmail.com)](mailto:gerona.jp.b@gmail.com)
+
+---
+
+<p align="center">
+  Thanks for visiting!<br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=jp-gerona&label=Profile+Views&color=007ec6&style=flat-square" alt="Profile views" />
+</p>
