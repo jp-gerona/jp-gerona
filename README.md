@@ -26,30 +26,7 @@
 
 ---
 
-### 🔰 Learning
-
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)][Go]
-[![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)][Tauri]
-[![TanStack Start](https://img.shields.io/badge/-TanStack_Start-0092b8?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
-[![Wails](https://img.shields.io/badge/-Wails-DF0000?style=flat-square&logo=wails&logoColor=white)][Wails]
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)][Laravel]
-[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)][Svelte]
-[![CI](https://img.shields.io/badge/-Code_Igniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)][CI]
-[![FilamentPHP](https://img.shields.io/badge/-FilamentPHP-FDAE4B?style=flat-square&logo=filament&logoColor=333333)][FilamentPHP]
-[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)][Rust]
-
-<!-- Learning links -->
-[Go]: https://go.dev/
-[Tauri]: https://tauri.app/
-[TanStack Start]: https://tanstack.com/start/latest
-[Wails]: https://wails.io/
-[Laravel]: https://laravel.com/
-[Svelte]: https://svelte.dev/
-[CI]: https://www.codeigniter.com/
-[FilamentPHP]: https://filamentphp.com/
-[Rust]: https://www.rust-lang.org/
-
-### 🚀 Technologies
+### 🚀 Development
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)][TypeScript]
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333333)][React]
@@ -65,7 +42,9 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)][PHP]
 [![Astro](https://img.shields.io/badge/-Astro-2C2052?style=flat-square&logo=astro&logoColor=white)][Astro]
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)][Sass]
+[![TanStack Start](https://img.shields.io/badge/-TanStack_Start-FF4154?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)][npm]
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)][CodeIgniter]
 [![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)][pnpm]
 [![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)][XAMPP]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333)][JavaScript]
@@ -81,6 +60,8 @@
 Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Technologies links -->
+[TanStack Start]: https://tanstack.com/start/latest
+[CodeIgniter]: https://www.codeigniter.com/
 [React]: https://react.dev/
 [Tailwind CSS]: https://tailwindcss.com/
 [TypeScript]: https://www.typescriptlang.org/
@@ -106,6 +87,23 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [shadcn/ui]: https://ui.shadcn.com/
 [Express]: https://expressjs.com/
 [UnoCSS]: https://unocss.dev/
+
+### 🔐 Cybersecurity
+
+[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)][Kali Linux]
+[![ZAP](https://img.shields.io/badge/-ZAP-00549E?style=flat-square&logo=zap&logoColor=white)][ZAP]
+[![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)][Metasploit]
+[![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)][VirusTotal]
+[![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)][Wireshark]
+[![Tor Browser](https://img.shields.io/badge/-Tor_Browser-7D4698?style=flat-square&logo=torbrowser&logoColor=white)][Tor Browser]
+
+<!-- Cybersecurity links -->
+[Kali Linux]: https://www.kali.org/
+[ZAP]: https://www.zaproxy.org/
+[Metasploit]: https://www.metasploit.com/
+[VirusTotal]: https://www.virustotal.com/
+[Wireshark]: https://www.wireshark.org/
+[Tor Browser]: https://download.torproject.org/
 
 ### ⚡️ Tools
 
