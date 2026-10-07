@@ -6,7 +6,7 @@
 
 **`Future Software Engineer`**
 
-👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**. You can check out my [Website Portfolio] if you're interested learning more about me!
+👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**. You can check out my [Website Portfolio] if you're interested in learning more about me! ✨
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
@@ -33,6 +33,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)][Tailwind CSS]
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)][Python]
 [![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)][Godot]
+[![Maplibre](https://img.shields.io/badge/-Maplibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)][Maplibre]
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)][SQLite]
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)][MySQL]
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)][PostgreSQL]
@@ -44,6 +45,7 @@
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)][Sass]
 [![TanStack Start](https://img.shields.io/badge/-TanStack_Start-FF4154?style=flat-square&logo=tanstack&logoColor=white)][TanStack Start]
 [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)][npm]
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)][CodeIgniter]
 [![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)][pnpm]
 [![XAMPP](https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white)][XAMPP]
@@ -60,7 +62,6 @@
 Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Technologies links -->
-[TanStack Start]: https://tanstack.com/start/latest
 [CodeIgniter]: https://www.codeigniter.com/
 [React]: https://react.dev/
 [Tailwind CSS]: https://tailwindcss.com/
@@ -68,6 +69,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [Godot]: https://godotengine.org/
 [Python]: https://www.python.org/
 [SQLite]: https://sqlite.org/
+[Maplibre]: https://maplibre.org/
 [MySQL]: https://www.mysql.com/
 [PostgreSQL]: https://www.postgresql.org/
 [Kotlin]: https://kotlinlang.org/
@@ -76,8 +78,10 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [PHP]: https://www.php.net/
 [Astro]: https://astro.build/
 [Sass]: https://sass-lang.com/
+[TanStack Start]: https://tanstack.com/start/latest
 [pnpm]: https://pnpm.io/
 [npm]: https://www.npmjs.com/
+[Git]: https://git-scm.com/
 [XAMPP]: https://www.apachefriends.org/
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [GSAP]: https://gsap.com/
@@ -110,7 +114,6 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [![MacPorts](https://img.shields.io/badge/-MacPorts-1E79E9?style=flat-square&logo=macports&logoColor=white)][Macports]
 [![ZedCode](https://img.shields.io/badge/-ZedCode-084CCF?style=flat-square&logo=zedindustries&logoColor=white)][ZedCode]
 [![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)][WezTerm]
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)][Git]
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)][Firefox]
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)][Figma]
 [![ClaudeCode](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)][ClaudeCode]
@@ -120,7 +123,6 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [Visual Studio Code]: https://code.visualstudio.com/
 [MacPorts]: https://www.macports.org/
 [WezTerm]: https://wezfurlong.org/wezterm/
-[Git]: https://git-scm.com/
 [Firefox]: https://www.firefox.com/en-US/
 [Figma]: https://www.figma.com/
 [ClaudeCode]: https://claude.com/product/claude-code
