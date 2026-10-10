@@ -31,9 +31,10 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)][TypeScript]
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=333333)][React]
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)][Tailwind CSS]
+[![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)][Jetpack Compose]
+[![Maplibre](https://img.shields.io/badge/-Maplibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)][Maplibre]
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)][Python]
 [![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)][Godot]
-[![Maplibre](https://img.shields.io/badge/-Maplibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)][Maplibre]
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)][SQLite]
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)][MySQL]
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)][PostgreSQL]
@@ -53,6 +54,7 @@
 [![GSAP](https://img.shields.io/badge/-GSAP-0AE448?style=flat-square&logo=gsap&logoColor=white)][GSAP]
 [![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)][Node.js]
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)][Django]
+[![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)][Composer]
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)][Next.js]
 [![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)][shadcn/ui]
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)][Express]
@@ -65,6 +67,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [CodeIgniter]: https://www.codeigniter.com/
 [React]: https://react.dev/
 [Tailwind CSS]: https://tailwindcss.com/
+[Jetpack Compose]: https://developer.android.com/compose
 [TypeScript]: https://www.typescriptlang.org/
 [Godot]: https://godotengine.org/
 [Python]: https://www.python.org/
@@ -87,6 +90,7 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [GSAP]: https://gsap.com/
 [Node.js]: https://nodejs.org/
 [Django]: https://www.djangoproject.com/
+[Composer]: https://getcomposer.org/
 [Next.js]: https://nextjs.org/
 [shadcn/ui]: https://ui.shadcn.com/
 [Express]: https://expressjs.com/
