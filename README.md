@@ -4,9 +4,9 @@
 
 # 💫 Julian Peter B. Gerona
 
-**`Future Software Engineer`**
+**`Future Software Engineer / SOC Analyst`**
 
-👋 Hi! I'm Julian, an aspiring software / solutions engineer from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a graduate of [Mapúa Malayan Colleges Laguna] with a degree in **Information Technology**, specializing in **Cybersecurity**. You can check out my [Website Portfolio] if you're interested in learning more about me! ✨
+👋 Hi! I'm Julian, an aspiring software engineer / SOC analyst from <img src="https://cdn-icons-png.flaticon.com/256/197/197561.png" alt="PH Flag" width="13"/> **Calamba, Laguna**. I'm a **BS Information Technology** graduate of [Mapúa Malayan Colleges Laguna], specializing in **Cybersecurity**. You can check out my [Website Portfolio] if you're interested in learning more about me! ✨
 
 <!-- Introduction links -->
 [Mapúa Malayan Colleges Laguna]: https://mcl.edu.ph/
