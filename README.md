@@ -55,12 +55,13 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)][Node.js]
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)][Django]
 [![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)][Composer]
+[![UnoCSS](https://img.shields.io/badge/-UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)][UnoCSS]
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)][Next.js]
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)][Next.js]
 [![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)][shadcn/ui]
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)][Express]
-[![UnoCSS](https://img.shields.io/badge/-UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)][UnoCSS]
 
-<h6>These are technologies that I have used (and possibly abused 😅).<br />
+<h6>These are technologies I've used (and possibly abused 😅).<br />
 Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 
 <!-- Technologies links -->
@@ -91,10 +92,11 @@ Note: No technologies were <i>"harmed"</i> during debugging.</h6>
 [Node.js]: https://nodejs.org/
 [Django]: https://www.djangoproject.com/
 [Composer]: https://getcomposer.org/
+[UnoCSS]: https://unocss.dev/
+[Rust]: https://rust-lang.org/
 [Next.js]: https://nextjs.org/
 [shadcn/ui]: https://ui.shadcn.com/
 [Express]: https://expressjs.com/
-[UnoCSS]: https://unocss.dev/
 
 ### 🔐 Cybersecurity
 
